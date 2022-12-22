@@ -1,6 +1,7 @@
 <template>
   <div class="hello">
     <h1 class="text-danger">{{ msg }}</h1>
+    <h1>{{ msg }}</h1>
     <ul>
       <li>0</li>
       <li>1</li>
